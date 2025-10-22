@@ -42,4 +42,4 @@ Este projeto está licenciado sob a **MIT License**, permitindo uso, cópia e mo
 
 <!--
 :books: leituras
-Commit: Incial sem API
+Commit: API Google Sheets
